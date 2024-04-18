@@ -1,0 +1,51 @@
+2024-03-30T09:18:29.503Z [info]: Synced db.
+2024-03-30T09:18:29.511Z [info]: 🚀 API Server running on port 3000
+2024-03-30T09:18:29.512Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T09:21:24.891Z [info]: notNull Violation: Course.semesterId cannot be null
+2024-03-30T09:21:51.934Z [info]: notNull Violation: Course.semesterId cannot be null
+2024-03-30T09:23:03.178Z [info]: notNull Violation: Course.semesterId cannot be null
+2024-03-30T09:24:27.968Z [info]: Unknown column 'semesterId' in 'field list'
+2024-03-30T13:06:23.678Z [info]: Synced db.
+2024-03-30T13:06:23.686Z [info]: 🚀 API Server running on port 3000
+2024-03-30T13:06:23.687Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T13:13:00.564Z [info]: Cannot set headers after they are sent to the client
+2024-03-30T13:13:57.934Z [info]: Cannot set headers after they are sent to the client
+2024-03-30T13:14:39.674Z [info]: Cannot set headers after they are sent to the client
+2024-03-30T13:14:52.598Z [info]: Cannot set headers after they are sent to the client
+2024-03-30T13:23:16.511Z [info]: Synced db.
+2024-03-30T13:23:16.528Z [info]: 🚀 API Server running on port 3000
+2024-03-30T13:23:16.531Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T13:24:50.026Z [info]: Synced db.
+2024-03-30T13:24:50.030Z [info]: 🚀 API Server running on port 3000
+2024-03-30T13:24:50.031Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T13:32:10.011Z [info]: Synced db.
+2024-03-30T13:32:10.020Z [info]: 🚀 API Server running on port 3000
+2024-03-30T13:32:10.021Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T13:39:15.010Z [info]: Synced db.
+2024-03-30T13:39:15.015Z [info]: 🚀 API Server running on port 3000
+2024-03-30T13:39:15.015Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T15:02:07.495Z [info]: Synced db.
+2024-03-30T15:02:07.509Z [info]: 🚀 API Server running on port 3000
+2024-03-30T15:02:07.510Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T15:11:02.064Z [info]: Synced db.
+2024-03-30T15:11:02.090Z [info]: 🚀 API Server running on port 3000
+2024-03-30T15:11:02.091Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T15:13:46.439Z [info]: Synced db.
+2024-03-30T15:13:46.449Z [info]: 🚀 API Server running on port 3000
+2024-03-30T15:13:46.450Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T22:23:26.015Z [info]: Cannot set headers after they are sent to the client
+2024-03-30T22:23:31.335Z [info]: Validation error
+2024-03-30T22:24:58.656Z [info]: Validation error
+2024-03-30T22:25:50.186Z [info]: Cannot set headers after they are sent to the client
+2024-03-30T22:29:21.378Z [info]: Cannot set headers after they are sent to the client
+2024-03-30T22:29:40.131Z [info]: Cannot add or update a child row: a foreign key constraint fails (`lecture_db`.`courses`, CONSTRAINT `courses_ibfk_1` FOREIGN KEY (`departmentId`) REFERENCES `departments` (`id`) ON UPDATE CASCADE)
+2024-03-30T22:30:07.016Z [info]: Validation error
+2024-03-30T22:46:56.162Z [info]: Synced db.
+2024-03-30T22:46:56.180Z [info]: 🚀 API Server running on port 3000
+2024-03-30T22:46:56.182Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T22:52:12.599Z [info]: Synced db.
+2024-03-30T22:52:12.608Z [info]: 🚀 API Server running on port 3000
+2024-03-30T22:52:12.610Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T22:54:13.414Z [info]: Synced db.
+2024-03-30T22:54:13.420Z [info]: 🚀 API Server running on port 3000
+2024-03-30T22:54:13.425Z [info]: 🔌 Socket Server running on 3301

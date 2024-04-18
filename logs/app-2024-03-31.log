@@ -1,0 +1,136 @@
+2024-03-30T23:04:01.753Z [info]: Synced db.
+2024-03-30T23:04:01.767Z [info]: 🚀 API Server running on port 3000
+2024-03-30T23:04:01.768Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T23:23:47.991Z [info]: Synced db.
+2024-03-30T23:23:48.002Z [info]: 🚀 API Server running on port 3000
+2024-03-30T23:23:48.003Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T23:32:19.363Z [info]: Synced db.
+2024-03-30T23:32:19.378Z [info]: 🚀 API Server running on port 3000
+2024-03-30T23:32:19.378Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T23:34:25.247Z [info]: Synced db.
+2024-03-30T23:34:25.254Z [info]: 🚀 API Server running on port 3000
+2024-03-30T23:34:25.255Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T23:36:15.930Z [info]: Synced db.
+2024-03-30T23:36:15.948Z [info]: 🚀 API Server running on port 3000
+2024-03-30T23:36:15.950Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T23:38:49.638Z [info]: Synced db.
+2024-03-30T23:38:49.647Z [info]: 🚀 API Server running on port 3000
+2024-03-30T23:38:49.648Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T23:41:36.329Z [info]: Synced db.
+2024-03-30T23:41:36.336Z [info]: 🚀 API Server running on port 3000
+2024-03-30T23:41:36.337Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T23:42:40.320Z [info]: LecturerData is not associated to User!
+2024-03-30T23:44:31.522Z [info]: Synced db.
+2024-03-30T23:44:31.533Z [info]: 🚀 API Server running on port 3000
+2024-03-30T23:44:31.534Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T23:51:37.177Z [info]: Synced db.
+2024-03-30T23:51:37.189Z [info]: 🚀 API Server running on port 3000
+2024-03-30T23:51:37.190Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T23:54:10.774Z [info]: Synced db.
+2024-03-30T23:54:10.787Z [info]: 🚀 API Server running on port 3000
+2024-03-30T23:54:10.788Z [info]: 🔌 Socket Server running on 3301
+2024-03-30T23:57:10.257Z [info]: Synced db.
+2024-03-30T23:57:10.273Z [info]: 🚀 API Server running on port 3000
+2024-03-30T23:57:10.274Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:00:03.671Z [info]: Synced db.
+2024-03-31T00:00:03.685Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:00:03.686Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:01:52.287Z [info]: Synced db.
+2024-03-31T00:01:52.295Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:01:52.296Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:07:10.354Z [info]: Synced db.
+2024-03-31T00:07:10.369Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:07:10.371Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:07:29.809Z [info]: Unknown column 'LecturerData.role' in 'where clause'
+2024-03-31T00:09:28.522Z [info]: Synced db.
+2024-03-31T00:09:28.534Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:09:28.535Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:14:39.169Z [info]: Synced db.
+2024-03-31T00:14:39.182Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:14:39.183Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:18:33.881Z [info]: Synced db.
+2024-03-31T00:18:33.896Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:18:33.897Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:23:36.621Z [info]: Synced db.
+2024-03-31T00:23:36.638Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:23:36.640Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:27:54.950Z [info]: Synced db.
+2024-03-31T00:27:54.964Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:27:54.965Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:29:33.237Z [info]: Synced db.
+2024-03-31T00:29:33.244Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:29:33.245Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:32:22.247Z [info]: Synced db.
+2024-03-31T00:32:22.252Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:32:22.253Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:35:47.492Z [info]: Synced db.
+2024-03-31T00:35:47.499Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:35:47.499Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:37:07.348Z [info]: Unknown column 'User.LecturerDataId' in 'on clause'
+2024-03-31T00:38:35.465Z [info]: Synced db.
+2024-03-31T00:38:35.472Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:38:35.473Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:41:17.578Z [info]: Synced db.
+2024-03-31T00:41:17.591Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:41:17.593Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:41:49.943Z [info]: Synced db.
+2024-03-31T00:41:49.946Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:41:49.946Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:43:21.250Z [info]: Synced db.
+2024-03-31T00:43:21.253Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:43:21.255Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:43:24.455Z [info]: Include unexpected. Element has to be either a Model, an Association or an object.
+2024-03-31T00:44:45.015Z [info]: Synced db.
+2024-03-31T00:44:45.022Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:44:45.023Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T00:59:46.815Z [info]: Synced db.
+2024-03-31T00:59:46.823Z [info]: 🚀 API Server running on port 3000
+2024-03-31T00:59:46.825Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T01:07:42.686Z [info]: Validation error
+2024-03-31T01:09:28.159Z [info]: Synced db.
+2024-03-31T01:09:28.171Z [info]: 🚀 API Server running on port 3000
+2024-03-31T01:09:28.172Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T01:34:12.622Z [info]: Synced db.
+2024-03-31T01:34:12.635Z [info]: 🚀 API Server running on port 3000
+2024-03-31T01:34:12.636Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T01:43:34.540Z [info]: Synced db.
+2024-03-31T01:43:34.565Z [info]: 🚀 API Server running on port 3000
+2024-03-31T01:43:34.566Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T01:44:01.368Z [info]: Synced db.
+2024-03-31T01:44:01.371Z [info]: 🚀 API Server running on port 3000
+2024-03-31T01:44:01.372Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T01:48:16.131Z [info]: Synced db.
+2024-03-31T01:48:16.137Z [info]: 🚀 API Server running on port 3000
+2024-03-31T01:48:16.138Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T01:50:21.745Z [info]: Synced db.
+2024-03-31T01:50:21.751Z [info]: 🚀 API Server running on port 3000
+2024-03-31T01:50:21.751Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T02:07:47.149Z [info]: Synced db.
+2024-03-31T02:07:47.156Z [info]: 🚀 API Server running on port 3000
+2024-03-31T02:07:47.158Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T02:09:28.508Z [info]: Synced db.
+2024-03-31T02:09:28.512Z [info]: 🚀 API Server running on port 3000
+2024-03-31T02:09:28.513Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T02:12:37.009Z [info]: Synced db.
+2024-03-31T02:12:37.014Z [info]: 🚀 API Server running on port 3000
+2024-03-31T02:12:37.014Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T02:13:45.616Z [info]: Synced db.
+2024-03-31T02:13:45.626Z [info]: 🚀 API Server running on port 3000
+2024-03-31T02:13:45.627Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T02:18:19.029Z [info]: Synced db.
+2024-03-31T02:18:19.035Z [info]: 🚀 API Server running on port 3000
+2024-03-31T02:18:19.036Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T02:19:47.903Z [info]: Synced db.
+2024-03-31T02:19:47.907Z [info]: 🚀 API Server running on port 3000
+2024-03-31T02:19:47.908Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T02:22:54.648Z [info]: Synced db.
+2024-03-31T02:22:54.652Z [info]: 🚀 API Server running on port 3000
+2024-03-31T02:22:54.653Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T02:25:00.897Z [info]: Cannot set headers after they are sent to the client
+2024-03-31T02:25:11.920Z [info]: Cannot set headers after they are sent to the client
+2024-03-31T02:25:32.475Z [info]: Cannot set headers after they are sent to the client
+2024-03-31T02:26:44.442Z [info]: Cannot add or update a child row: a foreign key constraint fails (`lecture_db`.`courses`, CONSTRAINT `courses_ibfk_7` FOREIGN KEY (`semesterId`) REFERENCES `semesters` (`id`) ON UPDATE CASCADE)
+2024-03-31T02:36:49.636Z [info]: Synced db.
+2024-03-31T02:36:49.649Z [info]: 🚀 API Server running on port 3000
+2024-03-31T02:36:49.650Z [info]: 🔌 Socket Server running on 3301
+2024-03-31T02:40:24.556Z [info]: Cannot set headers after they are sent to the client

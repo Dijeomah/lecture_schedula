@@ -1,0 +1,27 @@
+2024-03-26T23:12:53.492Z [info]: Synced db.
+2024-03-26T23:12:53.497Z [info]: 🚀 API Server running on port 3000
+2024-03-26T23:12:53.497Z [info]: 🔌 Socket Server running on 3301
+2024-03-26T23:18:09.793Z [info]: Synced db.
+2024-03-26T23:18:09.802Z [info]: 🚀 API Server running on port 3000
+2024-03-26T23:18:09.802Z [info]: 🔌 Socket Server running on 3301
+2024-03-26T23:31:06.076Z [info]: Synced db.
+2024-03-26T23:31:06.082Z [info]: 🚀 API Server running on port 3000
+2024-03-26T23:31:06.083Z [info]: 🔌 Socket Server running on 3301
+2024-03-26T23:44:06.534Z [info]: Synced db.
+2024-03-26T23:44:06.539Z [info]: 🚀 API Server running on port 3000
+2024-03-26T23:44:06.540Z [info]: 🔌 Socket Server running on 3301
+2024-03-26T23:45:23.949Z [info]: Synced db.
+2024-03-26T23:45:23.953Z [info]: 🚀 API Server running on port 3000
+2024-03-26T23:45:23.955Z [info]: 🔌 Socket Server running on 3301
+2024-03-26T23:48:56.369Z [info]: Synced db.
+2024-03-26T23:48:56.375Z [info]: 🚀 API Server running on port 3000
+2024-03-26T23:48:56.376Z [info]: 🔌 Socket Server running on 3301
+2024-03-27T00:02:36.691Z [info]: Failed to sync db: Invalid default value for 'role'
+2024-03-27T00:06:42.932Z [info]: Failed to sync db: Invalid default value for 'role'
+2024-03-27T00:10:13.537Z [info]: Failed to sync db: Invalid default value for 'role'
+2024-03-27T00:12:08.529Z [info]: Synced db.
+2024-03-27T00:12:08.538Z [info]: 🚀 API Server running on port 3000
+2024-03-27T00:12:08.539Z [info]: 🔌 Socket Server running on 3301
+2024-03-27T00:21:14.126Z [info]: Synced db.
+2024-03-27T00:21:14.136Z [info]: 🚀 API Server running on port 3000
+2024-03-27T00:21:14.137Z [info]: 🔌 Socket Server running on 3301

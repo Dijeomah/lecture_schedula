@@ -1,0 +1,535 @@
+2024-03-25T09:10:14.896Z [info]: Synced db.
+2024-03-25T09:10:14.904Z [info]: 🚀 API Server running on port 3000
+2024-03-25T09:10:14.904Z [info]: 🔌 Socket Server running on 3301
+2024-03-25T09:11:12.559Z [info]: Authentication failed!
+2024-03-25T09:11:12.570Z [info]: [Error] Authentication failed. Authentication failed!
+2024-03-25T09:11:12.571Z [info]: {}
+2024-03-25T09:11:12.571Z [info]: /api/v1/admin/providers
+2024-03-25T09:11:12.572Z [info]: ::1
+2024-03-25T09:11:12.572Z [info]: {
+  authorization: [32m'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkFETUlOX1RPS0VOX0ZPUl9QV1QiLCJpYXQiOjI1MTYyMzkwMjJ9.7exjjJRTVL3iJmU_9rdE6bWihpm13Rxr0U4275qjI9w'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'81197a03-5b7a-4d49-b57e-03877bcfb8cb'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m
+}
+2024-03-25T09:11:12.573Z [info]: localhost
+2024-03-25T09:33:29.185Z [info]: [Error] Amount is required
+2024-03-25T09:33:29.214Z [info]: { Id: [33m1[39m }
+2024-03-25T09:33:29.215Z [info]: /api/v1/notification/providus
+2024-03-25T09:33:29.219Z [info]: ::1
+2024-03-25T09:33:29.219Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'ce0c7063-9243-4817-b2d1-0be8c5389ae5'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'17'[39m
+}
+2024-03-25T09:33:29.220Z [info]: localhost
+2024-03-25T09:34:13.548Z [info]: [Error] Narration is required
+2024-03-25T09:34:13.555Z [info]: { Id: [33m1[39m, Amount: [33m300[39m }
+2024-03-25T09:34:13.566Z [info]: /api/v1/notification/providus
+2024-03-25T09:34:13.571Z [info]: ::1
+2024-03-25T09:34:13.572Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'62e848bd-aa32-4df5-9161-8d986cf15a32'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'37'[39m
+}
+2024-03-25T09:34:13.579Z [info]: localhost
+2024-03-25T09:34:28.547Z [info]: [Error] Narration is required
+2024-03-25T09:34:28.548Z [info]: { Id: [33m1[39m, Amount: [33m300[39m, Narration: [32m'Test'[39m }
+2024-03-25T09:34:28.548Z [info]: /api/v1/notification/providus
+2024-03-25T09:34:28.548Z [info]: ::1
+2024-03-25T09:34:28.548Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'6832d8ba-373b-42b2-a5fb-4eedaa8d4974'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'63'[39m
+}
+2024-03-25T09:34:28.615Z [info]: localhost
+2024-03-25T09:34:35.448Z [info]: [Error] Narration is required
+2024-03-25T09:34:35.448Z [info]: { Id: [33m1[39m, Amount: [33m300[39m, Narration: [32m'Test'[39m }
+2024-03-25T09:34:35.449Z [info]: /api/v1/notification/providus
+2024-03-25T09:34:35.449Z [info]: ::1
+2024-03-25T09:34:35.449Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'40e407ca-165a-4602-a6f7-19b63e9641b2'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'63'[39m
+}
+2024-03-25T09:34:35.449Z [info]: localhost
+2024-03-25T09:40:56.390Z [info]: [Error] ID is required
+2024-03-25T09:40:56.405Z [info]: {
+  accountNumber: [32m'9977620561'[39m,
+  reference: [32m'202200723011650000001'[39m,
+  narration: [32m'FROM UBA/ OLAJIDE OLUWATOBILOBA-MOB/UTO/5401523187/000023/Transaction notification test1'[39m,
+  dateTime: [32m'23-JUL-20 12:40:41'[39m,
+  amount: [33m100[39m,
+  transactionType: [32m'cr'[39m,
+  accountBalance: [33m633807.03[39m
+}
+2024-03-25T09:40:56.412Z [info]: /api/v1/notification/providus
+2024-03-25T09:40:56.412Z [info]: ::1
+2024-03-25T09:40:56.412Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'885bcd1c-c8d0-4b5f-ba0a-c971060e8a46'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'315'[39m
+}
+2024-03-25T09:40:56.413Z [info]: localhost
+2024-03-25T09:42:32.062Z [info]: Synced db.
+2024-03-25T09:42:32.078Z [info]: 🚀 API Server running on port 3000
+2024-03-25T09:42:32.079Z [info]: 🔌 Socket Server running on 3301
+2024-03-25T09:43:01.223Z [info]: [Error] Transaction date is required
+2024-03-25T09:43:01.233Z [info]: {
+  accountNumber: [32m'9977620561'[39m,
+  reference: [32m'202200723011650000001'[39m,
+  narration: [32m'FROM UBA/ OLAJIDE OLUWATOBILOBA-MOB/UTO/5401523187/000023/Transaction notification test1'[39m,
+  dateTime: [32m'23-JUL-20 12:40:41'[39m,
+  amount: [33m100[39m,
+  transactionType: [32m'cr'[39m,
+  accountBalance: [33m633807.03[39m
+}
+2024-03-25T09:43:01.244Z [info]: /api/v1/notification/providus
+2024-03-25T09:43:01.248Z [info]: ::1
+2024-03-25T09:43:01.248Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'c28890af-efbe-4355-adcd-82bb49fccfcb'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'315'[39m
+}
+2024-03-25T09:43:01.257Z [info]: localhost
+2024-03-25T09:44:18.712Z [info]: [Error] Transaction date is required
+2024-03-25T09:44:18.717Z [info]: {
+  accountNumber: [32m'9977620561'[39m,
+  reference: [32m'202200723011650000001'[39m,
+  narration: [32m'FROM UBA/ OLAJIDE OLUWATOBILOBA-MOB/UTO/5401523187/000023/Transaction notification test1'[39m,
+  dateTime: [32m'23-JUL-20 12:40:41'[39m,
+  amount: [33m100[39m,
+  transactionType: [32m'cr'[39m,
+  accountBalance: [33m633807.03[39m
+}
+2024-03-25T09:44:18.718Z [info]: /api/v1/notification/providus
+2024-03-25T09:44:18.722Z [info]: ::1
+2024-03-25T09:44:18.724Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'54f5c27c-f218-4169-8e7d-dc4cfc236aa3'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'315'[39m
+}
+2024-03-25T09:44:18.727Z [info]: localhost
+2024-03-25T09:44:55.405Z [info]: Synced db.
+2024-03-25T09:44:55.412Z [info]: 🚀 API Server running on port 3000
+2024-03-25T09:44:55.413Z [info]: 🔌 Socket Server running on 3301
+2024-03-25T09:45:04.069Z [info]: [Error] Transaction date is required
+2024-03-25T09:45:04.070Z [info]: {
+  accountNumber: [32m'9977620561'[39m,
+  reference: [32m'202200723011650000001'[39m,
+  narration: [32m'FROM UBA/ OLAJIDE OLUWATOBILOBA-MOB/UTO/5401523187/000023/Transaction notification test1'[39m,
+  dateTime: [32m'23-JUL-20 12:40:41'[39m,
+  amount: [33m100[39m,
+  transactionType: [32m'cr'[39m,
+  accountBalance: [33m633807.03[39m
+}
+2024-03-25T09:45:04.071Z [info]: /api/v1/notification/providus
+2024-03-25T09:45:04.072Z [info]: ::1
+2024-03-25T09:45:04.072Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'79d0fd1c-c56e-4520-afd4-b46739d0fdee'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'315'[39m
+}
+2024-03-25T09:45:04.074Z [info]: localhost
+2024-03-25T09:46:27.652Z [info]: [Error] Transaction date is required
+2024-03-25T09:46:27.659Z [info]: {
+  accountNumber: [32m'9977620561'[39m,
+  reference: [32m'202200723011650000001'[39m,
+  narration: [32m'FROM UBA/ OLAJIDE OLUWATOBILOBA-MOB/UTO/5401523187/000023/Transaction notification test1'[39m,
+  dateTime: [32m'23-JUL-20 12:40:41'[39m,
+  amount: [33m100[39m,
+  transactionType: [32m'cr'[39m,
+  accountBalance: [33m633807.03[39m
+}
+2024-03-25T09:46:27.661Z [info]: /api/v1/notification/providus
+2024-03-25T09:46:27.664Z [info]: ::1
+2024-03-25T09:46:27.666Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'a90c289b-209c-492c-b7e7-5a69194fa0dc'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'315'[39m
+}
+2024-03-25T09:46:27.667Z [info]: localhost
+2024-03-25T09:47:17.913Z [info]: Synced db.
+2024-03-25T09:47:17.919Z [info]: 🚀 API Server running on port 3000
+2024-03-25T09:47:17.920Z [info]: 🔌 Socket Server running on 3301
+2024-03-25T09:47:29.414Z [info]: Callback from Providus:
+2024-03-25T09:47:29.414Z [info]: {
+  accountNumber: [32m'9977620561'[39m,
+  reference: [32m'202200723011650000001'[39m,
+  narration: [32m'FROM UBA/ OLAJIDE OLUWATOBILOBA-MOB/UTO/5401523187/000023/Transaction notification test1'[39m,
+  dateTime: [32m'23-JUL-20 12:40:41'[39m,
+  amount: [33m100[39m,
+  transactionType: [32m'cr'[39m,
+  accountBalance: [33m633807.03[39m
+}
+2024-03-25T09:49:28.732Z [info]: Callback from Providus:
+2024-03-25T09:49:28.773Z [info]: {
+  accountNumber: [32m'9977620561'[39m,
+  reference: [32m'202200723011650000001'[39m,
+  narration: [32m'FROM UBA/ OLAJIDE OLUWATOBILOBA-MOB/UTO/5401523187/000023/Transaction notification test1'[39m,
+  dateTime: [32m'23-JUL-20 12:40:41'[39m,
+  amount: [33m100[39m,
+  transactionType: [32m'cr'[39m,
+  accountBalance: [33m633807.03[39m
+}
+2024-03-25T09:49:29.081Z [info]: [Error] Invalid time value
+2024-03-25T09:49:29.081Z [info]: {
+  accountNumber: [32m'9977620561'[39m,
+  reference: [32m'202200723011650000001'[39m,
+  narration: [32m'FROM UBA/ OLAJIDE OLUWATOBILOBA-MOB/UTO/5401523187/000023/Transaction notification test1'[39m,
+  dateTime: [32m'23-JUL-20 12:40:41'[39m,
+  amount: [33m100[39m,
+  transactionType: [32m'cr'[39m,
+  accountBalance: [33m633807.03[39m
+}
+2024-03-25T09:49:29.089Z [info]: /api/v1/notification/providus
+2024-03-25T09:49:29.091Z [info]: ::1
+2024-03-25T09:49:29.091Z [info]: {
+  [32m'client-id'[39m: [32m'dGVzdF9Qcm92aWR1cw=='[39m,
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'4ecf7a32-b839-4298-b64b-9a0cde7a7319'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'315'[39m
+}
+2024-03-25T09:49:29.092Z [info]: localhost
+2024-03-25T10:18:11.614Z [info]: Synced db.
+2024-03-25T10:18:11.625Z [info]: 🚀 API Server running on port 3000
+2024-03-25T10:18:11.626Z [info]: 🔌 Socket Server running on 3301
+2024-03-25T10:18:20.407Z [info]: Callback from Providus:
+2024-03-25T10:18:20.408Z [info]: {
+  accountNumber: [32m'9977620561'[39m,
+  reference: [32m'202200723011650000001'[39m,
+  narration: [32m'FROM UBA/ OLAJIDE OLUWATOBILOBA-MOB/UTO/5401523187/000023/Transaction notification test1'[39m,
+  dateTime: [32m'23-JUL-20 12:40:41'[39m,
+  amount: [33m100[39m,
+  transactionType: [32m'cr'[39m,
+  accountBalance: [33m633807.03[39m
+}
+2024-03-25T10:18:20.530Z [info]: [Error] Invalid time value
+2024-03-25T10:18:20.531Z [info]: {
+  accountNumber: [32m'9977620561'[39m,
+  reference: [32m'202200723011650000001'[39m,
+  narration: [32m'FROM UBA/ OLAJIDE OLUWATOBILOBA-MOB/UTO/5401523187/000023/Transaction notification test1'[39m,
+  dateTime: [32m'23-JUL-20 12:40:41'[39m,
+  amount: [33m100[39m,
+  transactionType: [32m'cr'[39m,
+  accountBalance: [33m633807.03[39m
+}
+2024-03-25T10:18:20.531Z [info]: /api/v1/notification/providus
+2024-03-25T10:18:20.532Z [info]: ::1
+2024-03-25T10:18:20.533Z [info]: {
+  [32m'client-id'[39m: [32m'dGVzdF9Qcm92aWR1cw=='[39m,
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'd46ca7b2-4934-4bca-bf83-c599f7d613ca'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'315'[39m
+}
+2024-03-25T10:18:20.533Z [info]: localhost
+2024-03-25T10:20:32.480Z [info]: Synced db.
+2024-03-25T10:20:32.486Z [info]: 🚀 API Server running on port 3000
+2024-03-25T10:20:32.487Z [info]: 🔌 Socket Server running on 3301
+2024-03-25T10:20:56.737Z [info]: Callback from Providus:
+2024-03-25T10:20:56.738Z [info]: {
+  accountNumber: [32m'9977620561'[39m,
+  reference: [32m'202200723011650000001'[39m,
+  narration: [32m'FROM UBA/ OLAJIDE OLUWATOBILOBA-MOB/UTO/5401523187/000023/Transaction notification test1'[39m,
+  dateTime: [32m'23-JUL-20 12:40:41'[39m,
+  amount: [33m100[39m,
+  transactionType: [32m'cr'[39m,
+  accountBalance: [33m633807.03[39m
+}
+2024-03-25T10:20:56.831Z [info]: providus date: 
+2024-03-25T10:20:56.929Z [info]: No socket connection found for 23444338
+2024-03-25T10:20:56.930Z [info]: sending webhook notification to Channel [AirPos PWT Service (https://webhook.site/edcb6485-5ba0-4ab1-b9e1-950252bf3477)]
+2024-03-25T10:20:57.571Z [info]: Cannot read properties of undefined (reading 'data')
+2024-03-25T10:20:57.577Z [info]: [Error] Cannot set headers after they are sent to the client
+2024-03-25T10:20:57.578Z [info]: {
+  accountNumber: [32m'9977620561'[39m,
+  reference: [32m'202200723011650000001'[39m,
+  narration: [32m'FROM UBA/ OLAJIDE OLUWATOBILOBA-MOB/UTO/5401523187/000023/Transaction notification test1'[39m,
+  dateTime: [32m'23-JUL-20 12:40:41'[39m,
+  amount: [33m100[39m,
+  transactionType: [32m'cr'[39m,
+  accountBalance: [33m633807.03[39m
+}
+2024-03-25T10:20:57.579Z [info]: /api/v1/notification/providus
+2024-03-25T10:20:57.579Z [info]: ::1
+2024-03-25T10:20:57.579Z [info]: {
+  [32m'client-id'[39m: [32m'dGVzdF9Qcm92aWR1cw=='[39m,
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'8139a5fc-5a81-480b-ab21-5297f206f844'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'315'[39m
+}
+2024-03-25T10:20:57.579Z [info]: localhost
+2024-03-25T16:06:00.196Z [info]: Synced db.
+2024-03-25T16:09:43.500Z [info]: Synced db.
+2024-03-25T16:09:43.508Z [info]: 🚀 API Server running on port 3000
+2024-03-25T16:09:43.509Z [info]: 🔌 Socket Server running on 3301
+2024-03-25T16:12:11.008Z [info]: [Error] Cannot read properties of undefined (reading 'data')
+2024-03-25T16:12:11.021Z [info]: {
+  provider: [32m'providus'[39m,
+  accountName: [32m'Edidem Unwanaobong'[39m,
+  bvn: [32m'22436855614'[39m,
+  phoneNumber: [32m'07051119075'[39m,
+  tid: [32m'23444339'[39m,
+  settlementAccount: [32m'0737918845'[39m
+}
+2024-03-25T16:12:11.026Z [info]: /api/v1/admin/accounts/add
+2024-03-25T16:12:11.029Z [info]: ::1
+2024-03-25T16:12:11.030Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  authorization: [32m'Bearer admintoken'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'e9d3ec5d-db4b-488b-8a41-cc575c98016a'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'208'[39m
+}
+2024-03-25T16:12:11.037Z [info]: localhost
+2024-03-25T16:20:26.223Z [info]: Synced db.
+2024-03-25T16:20:26.230Z [info]: 🚀 API Server running on port 3000
+2024-03-25T16:20:26.231Z [info]: 🔌 Socket Server running on 3301
+2024-03-25T16:23:11.431Z [info]: [Error] Cannot read properties of undefined (reading 'data')
+2024-03-25T16:23:11.446Z [info]: {
+  provider: [32m'providus'[39m,
+  accountName: [32m'Edidem Unwanaobong'[39m,
+  bvn: [32m'22436855614'[39m,
+  phoneNumber: [32m'07051119075'[39m,
+  tid: [32m'23444339'[39m,
+  settlementAccount: [32m'0737918845'[39m
+}
+2024-03-25T16:23:11.451Z [info]: /api/v1/admin/accounts/add
+2024-03-25T16:23:11.455Z [info]: ::1
+2024-03-25T16:23:11.455Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  authorization: [32m'Bearer admintoken'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'74a16aa7-6ac7-42eb-bb7a-39b03c6c1e2c'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'208'[39m
+}
+2024-03-25T16:23:11.458Z [info]: localhost
+2024-03-25T16:35:45.683Z [info]: Synced db.
+2024-03-25T16:35:45.692Z [info]: 🚀 API Server running on port 3000
+2024-03-25T16:35:45.693Z [info]: 🔌 Socket Server running on 3301
+2024-03-25T16:35:56.737Z [info]: [Error] "[object Object]" is not valid JSON
+2024-03-25T16:35:56.737Z [info]: {
+  provider: [32m'providus'[39m,
+  accountName: [32m'Edidem Unwanaobong'[39m,
+  bvn: [32m'22436855614'[39m,
+  phoneNumber: [32m'07051119075'[39m,
+  tid: [32m'23444339'[39m,
+  settlementAccount: [32m'0737918845'[39m
+}
+2024-03-25T16:35:56.739Z [info]: /api/v1/admin/accounts/add
+2024-03-25T16:35:56.741Z [info]: ::1
+2024-03-25T16:35:56.741Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  authorization: [32m'Bearer admintoken'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'4c8a57cd-de0d-4b79-9624-a29d0104e24b'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'208'[39m
+}
+2024-03-25T16:35:56.744Z [info]: localhost
+2024-03-25T16:43:22.439Z [info]: Synced db.
+2024-03-25T16:43:22.449Z [info]: 🚀 API Server running on port 3000
+2024-03-25T16:43:22.450Z [info]: 🔌 Socket Server running on 3301
+2024-03-25T16:45:53.472Z [info]: [Error] Cannot read properties of undefined (reading 'data')
+2024-03-25T16:45:53.502Z [info]: {
+  provider: [32m'providus'[39m,
+  accountName: [32m'Edidem Unwanaobong'[39m,
+  bvn: [32m'22436855614'[39m,
+  phoneNumber: [32m'07051119075'[39m,
+  tid: [32m'23444339'[39m,
+  settlementAccount: [32m'0737918845'[39m
+}
+2024-03-25T16:45:53.510Z [info]: /api/v1/admin/accounts/add
+2024-03-25T16:45:53.516Z [info]: ::1
+2024-03-25T16:45:53.516Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  authorization: [32m'Bearer admintoken'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'9575d56f-2699-4002-b508-bd000cd6e6e6'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'208'[39m
+}
+2024-03-25T16:45:53.523Z [info]: localhost
+2024-03-25T16:52:20.367Z [info]: Synced db.
+2024-03-25T16:52:20.378Z [info]: 🚀 API Server running on port 3000
+2024-03-25T16:52:20.379Z [info]: 🔌 Socket Server running on 3301
+2024-03-25T16:54:45.665Z [info]: [Error] Cannot read properties of undefined (reading 'data')
+2024-03-25T16:54:45.672Z [info]: {
+  provider: [32m'providus'[39m,
+  accountName: [32m'Edidem Unwanaobong'[39m,
+  bvn: [32m'22436855614'[39m,
+  phoneNumber: [32m'07051119075'[39m,
+  tid: [32m'23444339'[39m,
+  settlementAccount: [32m'0737918845'[39m
+}
+2024-03-25T16:54:45.675Z [info]: /api/v1/admin/accounts/add
+2024-03-25T16:54:45.676Z [info]: ::1
+2024-03-25T16:54:45.677Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  authorization: [32m'Bearer admintoken'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'1be55792-6e8b-491d-9a73-3d2b4c32597f'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'208'[39m
+}
+2024-03-25T16:54:45.679Z [info]: localhost
+2024-03-25T16:57:08.333Z [info]: Synced db.
+2024-03-25T16:57:08.345Z [info]: 🚀 API Server running on port 3000
+2024-03-25T16:57:08.346Z [info]: 🔌 Socket Server running on 3301
+2024-03-25T16:59:37.765Z [info]: [Error] Cannot read properties of undefined (reading 'data')
+2024-03-25T16:59:37.794Z [info]: {
+  provider: [32m'providus'[39m,
+  accountName: [32m'Edidem Unwanaobong'[39m,
+  bvn: [32m'22436855614'[39m,
+  phoneNumber: [32m'07051119075'[39m,
+  tid: [32m'23444339'[39m,
+  settlementAccount: [32m'0737918845'[39m
+}
+2024-03-25T16:59:37.802Z [info]: /api/v1/admin/accounts/add
+2024-03-25T16:59:37.811Z [info]: ::1
+2024-03-25T16:59:37.811Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  authorization: [32m'Bearer admintoken'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'def42c06-c03e-4f52-83e0-cfae54af4344'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'208'[39m
+}
+2024-03-25T16:59:37.817Z [info]: localhost
+2024-03-25T17:01:06.893Z [info]: Synced db.
+2024-03-25T17:01:06.897Z [info]: 🚀 API Server running on port 3000
+2024-03-25T17:01:06.898Z [info]: 🔌 Socket Server running on 3301
+2024-03-25T17:03:27.904Z [info]: [Error] Cannot read properties of undefined (reading 'data')
+2024-03-25T17:03:27.905Z [info]: {
+  provider: [32m'providus'[39m,
+  accountName: [32m'Edidem Unwanaobong'[39m,
+  bvn: [32m'22436855614'[39m,
+  phoneNumber: [32m'07051119075'[39m,
+  tid: [32m'23444339'[39m,
+  settlementAccount: [32m'0737918845'[39m
+}
+2024-03-25T17:03:27.907Z [info]: /api/v1/admin/accounts/add
+2024-03-25T17:03:27.908Z [info]: ::1
+2024-03-25T17:03:27.908Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  authorization: [32m'Bearer admintoken'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'acd9da3d-4562-45c7-84e8-032cf45e7293'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'208'[39m
+}
+2024-03-25T17:03:27.910Z [info]: localhost
+2024-03-25T17:05:10.790Z [info]: Synced db.
+2024-03-25T17:05:10.803Z [info]: 🚀 API Server running on port 3000
+2024-03-25T17:05:10.804Z [info]: 🔌 Socket Server running on 3301
+2024-03-25T17:05:46.633Z [info]: [Error] Invalid terminal ID
+2024-03-25T17:05:46.635Z [info]: {
+  provider: [32m'providus'[39m,
+  accountName: [32m'Edidem Unwanaobong'[39m,
+  bvn: [32m'22436855615'[39m,
+  phoneNumber: [32m'07051119076'[39m,
+  tid: [32m'234443390'[39m,
+  settlementAccount: [32m'0737918846'[39m
+}
+2024-03-25T17:05:46.636Z [info]: /api/v1/admin/accounts/add
+2024-03-25T17:05:46.636Z [info]: ::1
+2024-03-25T17:05:46.636Z [info]: {
+  [32m'content-type'[39m: [32m'application/json'[39m,
+  authorization: [32m'Bearer admintoken'[39m,
+  [32m'user-agent'[39m: [32m'PostmanRuntime/7.37.0'[39m,
+  accept: [32m'*/*'[39m,
+  [32m'postman-token'[39m: [32m'90bbd12e-3957-41f2-ba3c-f51fa385ebf3'[39m,
+  host: [32m'localhost:3000'[39m,
+  [32m'accept-encoding'[39m: [32m'gzip, deflate, br'[39m,
+  connection: [32m'keep-alive'[39m,
+  [32m'content-length'[39m: [32m'209'[39m
+}
+2024-03-25T17:05:46.637Z [info]: localhost
+2024-03-25T17:08:14.623Z [info]: connect ETIMEDOUT 154.113.16.142:8088
+2024-03-25T17:08:14.640Z [info]: providus VA response: undefined. 

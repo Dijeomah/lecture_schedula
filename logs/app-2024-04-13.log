@@ -1,0 +1,38 @@
+2024-04-12T23:24:45.766Z [info]: Synced db.
+2024-04-12T23:24:45.774Z [info]: 🚀 API Server running on port 3000
+2024-04-12T23:24:45.774Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T23:27:46.122Z [info]: Synced db.
+2024-04-12T23:27:46.131Z [info]: 🚀 API Server running on port 3000
+2024-04-12T23:27:46.132Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T23:29:35.908Z [info]: Failed to sync db: Too many keys specified; max 64 keys allowed
+2024-04-12T23:31:19.024Z [info]: Failed to sync db: Too many keys specified; max 64 keys allowed
+2024-04-12T23:35:42.135Z [info]: Failed to sync db: Too many keys specified; max 64 keys allowed
+2024-04-13T00:05:24.197Z [info]: Synced db.
+2024-04-13T00:05:24.211Z [info]: 🚀 API Server running on port 3000
+2024-04-13T00:05:24.213Z [info]: 🔌 Socket Server running on 3301
+2024-04-13T00:08:01.745Z [info]: Synced db.
+2024-04-13T00:08:01.750Z [info]: 🚀 API Server running on port 3000
+2024-04-13T00:08:01.751Z [info]: 🔌 Socket Server running on 3301
+2024-04-13T00:08:59.701Z [info]: undefined
+2024-04-13T00:25:18.892Z [info]: undefined
+2024-04-13T00:25:56.070Z [info]: Unknown column 'LecturerData.userId' in 'where clause'
+2024-04-13T00:31:35.123Z [info]: Synced db.
+2024-04-13T00:31:35.128Z [info]: 🚀 API Server running on port 3000
+2024-04-13T00:31:35.129Z [info]: 🔌 Socket Server running on 3301
+2024-04-13T00:31:47.816Z [info]: Unknown column 'LecturerData.LecturerDatumId' in 'where clause'
+2024-04-13T00:36:29.674Z [info]: Synced db.
+2024-04-13T00:36:29.683Z [info]: 🚀 API Server running on port 3000
+2024-04-13T00:36:29.685Z [info]: 🔌 Socket Server running on 3301
+2024-04-13T00:38:31.115Z [info]: Synced db.
+2024-04-13T00:38:31.120Z [info]: 🚀 API Server running on port 3000
+2024-04-13T00:38:31.121Z [info]: 🔌 Socket Server running on 3301
+2024-04-13T11:35:11.492Z [info]: Synced db.
+2024-04-13T11:35:11.509Z [info]: 🚀 API Server running on port 3000
+2024-04-13T11:35:11.510Z [info]: 🔌 Socket Server running on 3301
+2024-04-13T11:41:47.818Z [info]: Synced db.
+2024-04-13T11:41:47.825Z [info]: 🚀 API Server running on port 3000
+2024-04-13T11:41:47.825Z [info]: 🔌 Socket Server running on 3301
+2024-04-13T11:42:29.039Z [info]: LecturerData is associated to User using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+2024-04-13T11:44:47.555Z [info]: Synced db.
+2024-04-13T11:44:47.564Z [info]: 🚀 API Server running on port 3000
+2024-04-13T11:44:47.565Z [info]: 🔌 Socket Server running on 3301

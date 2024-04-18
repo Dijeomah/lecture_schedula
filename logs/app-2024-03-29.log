@@ -1,0 +1,481 @@
+2024-03-29T00:14:29.959Z [info]: Failed to sync db: Unknown database 'lecture_db'
+2024-03-29T00:16:14.623Z [info]: Failed to sync db: Unknown database 'lecture_db'
+2024-03-29T00:21:37.172Z [info]: Failed to sync db: Unknown database 'lecture_db'
+2024-03-29T00:23:39.391Z [info]: Failed to sync db: Unknown database 'lecture_db'
+2024-03-29T00:28:27.329Z [info]: Failed to sync db: Unknown database 'lecture_db'
+2024-03-29T00:30:59.106Z [info]: Failed to sync db: Unknown database 'lecture_db'
+2024-03-29T00:31:48.894Z [info]: Failed to sync db: Unknown database 'lecture_db'
+2024-03-29T00:32:37.032Z [info]: Failed to sync db: Unknown database 'lecture_db'
+2024-03-29T00:35:02.512Z [info]: Synced db.
+2024-03-29T00:35:02.519Z [info]: 🚀 API Server running on port 3000
+2024-03-29T00:35:02.520Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T00:43:53.343Z [info]: Synced db.
+2024-03-29T00:43:53.347Z [info]: 🚀 API Server running on port 3000
+2024-03-29T00:43:53.347Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T00:44:04.271Z [info]: Promise { [36m<pending>[39m }
+2024-03-29T00:45:20.533Z [info]: Synced db.
+2024-03-29T00:45:20.536Z [info]: 🚀 API Server running on port 3000
+2024-03-29T00:45:20.536Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T00:45:27.562Z [info]: User {
+  dataValues: {
+    uuid: [32m'872925fe-7f65-4ba5-9ac6-9c71bdc1b4cb'[39m,
+    id: [33m1[39m,
+    email: [32m'user@user.com'[39m,
+    phone_number: [32m'08130373718'[39m,
+    username: [32m'omah'[39m,
+    password: [32m'$2b$10$oFexqNHh6rKm2rBfTIh0gu925kOlKE1h0Bdfi5bjLltySThRiOg36'[39m,
+    role: [32m'admin'[39m,
+    updatedAt: [35m2024-03-29T00:45:27.549Z[39m,
+    createdAt: [35m2024-03-29T00:45:27.549Z[39m
+  },
+  _previousDataValues: {
+    email: [32m'user@user.com'[39m,
+    phone_number: [32m'08130373718'[39m,
+    username: [32m'omah'[39m,
+    password: [32m'$2b$10$oFexqNHh6rKm2rBfTIh0gu925kOlKE1h0Bdfi5bjLltySThRiOg36'[39m,
+    role: [32m'admin'[39m,
+    id: [33m1[39m,
+    uuid: [32m'872925fe-7f65-4ba5-9ac6-9c71bdc1b4cb'[39m,
+    createdAt: [35m2024-03-29T00:45:27.549Z[39m,
+    updatedAt: [35m2024-03-29T00:45:27.549Z[39m,
+    deletedAt: [90mundefined[39m,
+    AdminId: [90mundefined[39m,
+    LecturerDatumId: [90mundefined[39m,
+    StudentDatumId: [90mundefined[39m
+  },
+  uniqno: [33m1[39m,
+  _changed: Set(0) {},
+  _options: {
+    isNewRecord: [33mtrue[39m,
+    _schema: [1mnull[22m,
+    _schemaDelimiter: [32m''[39m,
+    attributes: [90mundefined[39m,
+    include: [90mundefined[39m,
+    raw: [90mundefined[39m,
+    silent: [90mundefined[39m
+  },
+  isNewRecord: [33mfalse[39m
+}
+2024-03-29T00:45:27.564Z [info]: User {
+  dataValues: {
+    uuid: [32m'872925fe-7f65-4ba5-9ac6-9c71bdc1b4cb'[39m,
+    id: [33m1[39m,
+    email: [32m'user@user.com'[39m,
+    phone_number: [32m'08130373718'[39m,
+    username: [32m'omah'[39m,
+    password: [32m'$2b$10$oFexqNHh6rKm2rBfTIh0gu925kOlKE1h0Bdfi5bjLltySThRiOg36'[39m,
+    role: [32m'admin'[39m,
+    updatedAt: [35m2024-03-29T00:45:27.549Z[39m,
+    createdAt: [35m2024-03-29T00:45:27.549Z[39m
+  },
+  _previousDataValues: {
+    email: [32m'user@user.com'[39m,
+    phone_number: [32m'08130373718'[39m,
+    username: [32m'omah'[39m,
+    password: [32m'$2b$10$oFexqNHh6rKm2rBfTIh0gu925kOlKE1h0Bdfi5bjLltySThRiOg36'[39m,
+    role: [32m'admin'[39m,
+    id: [33m1[39m,
+    uuid: [32m'872925fe-7f65-4ba5-9ac6-9c71bdc1b4cb'[39m,
+    createdAt: [35m2024-03-29T00:45:27.549Z[39m,
+    updatedAt: [35m2024-03-29T00:45:27.549Z[39m,
+    deletedAt: [90mundefined[39m,
+    AdminId: [90mundefined[39m,
+    LecturerDatumId: [90mundefined[39m,
+    StudentDatumId: [90mundefined[39m
+  },
+  uniqno: [33m1[39m,
+  _changed: Set(0) {},
+  _options: {
+    isNewRecord: [33mtrue[39m,
+    _schema: [1mnull[22m,
+    _schemaDelimiter: [32m''[39m,
+    attributes: [90mundefined[39m,
+    include: [90mundefined[39m,
+    raw: [90mundefined[39m,
+    silent: [90mundefined[39m
+  },
+  isNewRecord: [33mfalse[39m
+}
+2024-03-29T00:47:20.659Z [info]: Synced db.
+2024-03-29T00:47:20.661Z [info]: 🚀 API Server running on port 3000
+2024-03-29T00:47:20.662Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T00:49:12.550Z [info]: Synced db.
+2024-03-29T00:49:12.553Z [info]: 🚀 API Server running on port 3000
+2024-03-29T00:49:12.554Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T00:50:37.455Z [info]: Synced db.
+2024-03-29T00:50:37.458Z [info]: 🚀 API Server running on port 3000
+2024-03-29T00:50:37.459Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T00:53:32.648Z [info]: Synced db.
+2024-03-29T00:53:32.652Z [info]: 🚀 API Server running on port 3000
+2024-03-29T00:53:32.653Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T00:57:34.024Z [info]: Synced db.
+2024-03-29T00:57:34.028Z [info]: 🚀 API Server running on port 3000
+2024-03-29T00:57:34.028Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T01:00:30.205Z [info]: Synced db.
+2024-03-29T01:00:30.207Z [info]: 🚀 API Server running on port 3000
+2024-03-29T01:00:30.208Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T01:29:08.653Z [info]: Synced db.
+2024-03-29T01:29:08.659Z [info]: 🚀 API Server running on port 3000
+2024-03-29T01:29:08.661Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T01:32:52.637Z [info]: Synced db.
+2024-03-29T01:32:52.640Z [info]: 🚀 API Server running on port 3000
+2024-03-29T01:32:52.641Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T01:32:57.925Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T01:34:56.700Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T01:35:31.579Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T01:40:16.059Z [info]: Synced db.
+2024-03-29T01:40:16.067Z [info]: 🚀 API Server running on port 3000
+2024-03-29T01:40:16.068Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T01:40:22.387Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T01:45:28.976Z [info]: Synced db.
+2024-03-29T01:45:28.982Z [info]: 🚀 API Server running on port 3000
+2024-03-29T01:45:28.983Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T01:45:34.980Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T01:48:30.592Z [info]: Synced db.
+2024-03-29T01:48:30.596Z [info]: 🚀 API Server running on port 3000
+2024-03-29T01:48:30.597Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T01:48:37.412Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T01:50:06.968Z [info]: Synced db.
+2024-03-29T01:50:06.972Z [info]: 🚀 API Server running on port 3000
+2024-03-29T01:50:06.973Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T01:50:20.173Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T01:50:54.522Z [info]: Synced db.
+2024-03-29T01:50:54.527Z [info]: 🚀 API Server running on port 3000
+2024-03-29T01:50:54.527Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T01:51:07.783Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T01:56:21.792Z [info]: Synced db.
+2024-03-29T01:56:21.797Z [info]: 🚀 API Server running on port 3000
+2024-03-29T01:56:21.799Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T01:56:31.724Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T02:01:04.118Z [info]: Synced db.
+2024-03-29T02:01:04.122Z [info]: 🚀 API Server running on port 3000
+2024-03-29T02:01:04.123Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T02:01:11.010Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T02:02:48.437Z [info]: Synced db.
+2024-03-29T02:02:48.439Z [info]: 🚀 API Server running on port 3000
+2024-03-29T02:02:48.440Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T02:02:53.536Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T02:05:28.153Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T02:06:50.331Z [info]: Synced db.
+2024-03-29T02:06:50.334Z [info]: 🚀 API Server running on port 3000
+2024-03-29T02:06:50.335Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T02:06:56.404Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T02:07:19.184Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T02:08:38.377Z [info]: Synced db.
+2024-03-29T02:08:38.382Z [info]: 🚀 API Server running on port 3000
+2024-03-29T02:08:38.384Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T02:08:44.453Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T02:10:13.182Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T02:14:30.115Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T02:15:26.387Z [info]: Synced db.
+2024-03-29T02:15:26.394Z [info]: 🚀 API Server running on port 3000
+2024-03-29T02:15:26.394Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T02:15:42.070Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T02:24:56.770Z [info]: Synced db.
+2024-03-29T02:24:56.775Z [info]: 🚀 API Server running on port 3000
+2024-03-29T02:24:56.776Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T02:26:11.775Z [info]: Synced db.
+2024-03-29T02:26:11.779Z [info]: 🚀 API Server running on port 3000
+2024-03-29T02:26:11.780Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T02:26:17.885Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T02:29:53.593Z [info]: Synced db.
+2024-03-29T02:29:53.602Z [info]: 🚀 API Server running on port 3000
+2024-03-29T02:29:53.602Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T02:30:53.601Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T02:31:53.078Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T02:32:11.200Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T02:33:57.994Z [info]: Synced db.
+2024-03-29T02:33:57.999Z [info]: 🚀 API Server running on port 3000
+2024-03-29T02:33:57.999Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T02:34:05.468Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T02:41:28.749Z [info]: Synced db.
+2024-03-29T02:41:28.757Z [info]: 🚀 API Server running on port 3000
+2024-03-29T02:41:28.758Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T02:42:12.287Z [info]: Synced db.
+2024-03-29T02:42:12.291Z [info]: 🚀 API Server running on port 3000
+2024-03-29T02:42:12.291Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T02:42:23.248Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T02:44:50.009Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T02:48:50.543Z [info]: Synced db.
+2024-03-29T02:48:50.548Z [info]: 🚀 API Server running on port 3000
+2024-03-29T02:48:50.551Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T02:49:33.520Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T02:51:06.021Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T02:53:32.092Z [info]: Synced db.
+2024-03-29T02:53:32.097Z [info]: 🚀 API Server running on port 3000
+2024-03-29T02:53:32.098Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T02:54:10.204Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:23:01.099Z [info]: Synced db.
+2024-03-29T03:23:01.106Z [info]: 🚀 API Server running on port 3000
+2024-03-29T03:23:01.107Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T03:24:05.140Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:25:09.291Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:25:14.387Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:25:25.990Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:27:52.313Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:28:45.438Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:29:19.283Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:31:43.338Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:35:20.023Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:35:42.479Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:36:39.612Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:38:42.711Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:40:13.409Z [info]: Synced db.
+2024-03-29T03:40:13.415Z [info]: 🚀 API Server running on port 3000
+2024-03-29T03:40:13.416Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T03:40:22.231Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:40:44.579Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:43:05.889Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:43:42.478Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:43:51.135Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:44:26.368Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:44:34.057Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:44:37.096Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:44:40.252Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:44:43.089Z [info]: WHERE parameter "uuid" has invalid "undefined" value
+2024-03-29T03:48:00.899Z [info]: Synced db.
+2024-03-29T03:48:00.908Z [info]: 🚀 API Server running on port 3000
+2024-03-29T03:48:00.909Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T03:49:06.994Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:49:39.348Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:49:51.029Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:50:05.064Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:50:27.383Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:52:47.010Z [info]: Synced db.
+2024-03-29T03:52:47.014Z [info]: 🚀 API Server running on port 3000
+2024-03-29T03:52:47.015Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T03:52:54.614Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:53:06.029Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:53:17.550Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:56:13.352Z [info]: Synced db.
+2024-03-29T03:56:13.357Z [info]: 🚀 API Server running on port 3000
+2024-03-29T03:56:13.358Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T03:56:20.529Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:58:36.093Z [info]: Synced db.
+2024-03-29T03:58:36.098Z [info]: 🚀 API Server running on port 3000
+2024-03-29T03:58:36.099Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T03:58:43.196Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:58:50.062Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:59:21.512Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:59:28.375Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T03:59:34.515Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:00:30.330Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:00:37.724Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:00:58.379Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:01:04.361Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:21:42.341Z [info]: Synced db.
+2024-03-29T04:21:42.345Z [info]: 🚀 API Server running on port 3000
+2024-03-29T04:21:42.346Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T04:32:55.890Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:33:12.994Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:33:27.709Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:33:46.439Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:34:00.014Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:34:16.075Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:36:01.592Z [info]: Synced db.
+2024-03-29T04:36:01.602Z [info]: 🚀 API Server running on port 3000
+2024-03-29T04:36:01.603Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T04:36:09.822Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:36:33.368Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:36:52.457Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:37:13.113Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:37:19.301Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:38:20.733Z [info]: Synced db.
+2024-03-29T04:38:20.739Z [info]: 🚀 API Server running on port 3000
+2024-03-29T04:38:20.740Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T04:38:26.693Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:38:47.510Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:38:49.874Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:38:56.370Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:39:02.641Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:41:00.788Z [info]: Synced db.
+2024-03-29T04:41:00.796Z [info]: 🚀 API Server running on port 3000
+2024-03-29T04:41:00.797Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T04:41:08.759Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:41:23.596Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:43:54.218Z [info]: Synced db.
+2024-03-29T04:43:54.223Z [info]: 🚀 API Server running on port 3000
+2024-03-29T04:43:54.224Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T04:44:00.961Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:44:13.400Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:46:04.987Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:46:21.335Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:49:00.150Z [info]: Synced db.
+2024-03-29T04:49:00.154Z [info]: 🚀 API Server running on port 3000
+2024-03-29T04:49:00.155Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T04:49:08.775Z [info]: f098770e-8881-419c-b001-cbd447546cc6
+2024-03-29T04:49:08.781Z [info]: School {
+  dataValues: {
+    id: [33m1[39m,
+    uuid: [32m'f098770e-8881-419c-b001-cbd447546cc6'[39m,
+    school_name: [32m'School of Art'[39m,
+    createdAt: [35m2024-03-29T04:33:27.000Z[39m,
+    updatedAt: [35m2024-03-29T04:46:04.000Z[39m,
+    deletedAt: [1mnull[22m
+  },
+  _previousDataValues: {
+    id: [33m1[39m,
+    uuid: [32m'f098770e-8881-419c-b001-cbd447546cc6'[39m,
+    school_name: [32m'School of Art'[39m,
+    createdAt: [35m2024-03-29T04:33:27.000Z[39m,
+    updatedAt: [35m2024-03-29T04:46:04.000Z[39m,
+    deletedAt: [1mnull[22m
+  },
+  uniqno: [33m1[39m,
+  _changed: Set(0) {},
+  _options: {
+    isNewRecord: [33mfalse[39m,
+    _schema: [1mnull[22m,
+    _schemaDelimiter: [32m''[39m,
+    raw: [33mtrue[39m,
+    attributes: [
+      [32m'id'[39m,
+      [32m'uuid'[39m,
+      [32m'school_name'[39m,
+      [32m'createdAt'[39m,
+      [32m'updatedAt'[39m,
+      [32m'deletedAt'[39m
+    ]
+  },
+  isNewRecord: [33mfalse[39m
+}
+2024-03-29T04:49:08.790Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T04:58:17.644Z [info]: Synced db.
+2024-03-29T04:58:17.649Z [info]: 🚀 API Server running on port 3000
+2024-03-29T04:58:17.649Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T05:34:11.973Z [info]: Synced db.
+2024-03-29T05:34:11.985Z [info]: 🚀 API Server running on port 3000
+2024-03-29T05:34:11.986Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T05:38:41.965Z [info]: Synced db.
+2024-03-29T05:38:41.975Z [info]: 🚀 API Server running on port 3000
+2024-03-29T05:38:41.975Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T06:14:58.519Z [info]: Synced db.
+2024-03-29T06:14:58.526Z [info]: 🚀 API Server running on port 3000
+2024-03-29T06:14:58.527Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T06:29:41.238Z [info]: Synced db.
+2024-03-29T06:29:41.246Z [info]: 🚀 API Server running on port 3000
+2024-03-29T06:29:41.247Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T06:33:02.994Z [info]: Synced db.
+2024-03-29T06:33:02.998Z [info]: 🚀 API Server running on port 3000
+2024-03-29T06:33:02.999Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T06:33:58.903Z [info]: Synced db.
+2024-03-29T06:33:58.905Z [info]: 🚀 API Server running on port 3000
+2024-03-29T06:33:58.906Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T06:49:34.226Z [info]: Synced db.
+2024-03-29T06:49:34.232Z [info]: 🚀 API Server running on port 3000
+2024-03-29T06:49:34.232Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T06:51:05.944Z [info]: Synced db.
+2024-03-29T06:51:05.948Z [info]: 🚀 API Server running on port 3000
+2024-03-29T06:51:05.949Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T06:51:23.277Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T06:52:35.606Z [info]: Unknown column 'session_id' in 'field list'
+2024-03-29T06:58:00.349Z [info]: Unknown column 'session_id' in 'field list'
+2024-03-29T07:08:21.560Z [info]: Synced db.
+2024-03-29T07:08:21.564Z [info]: 🚀 API Server running on port 3000
+2024-03-29T07:08:21.565Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T07:08:29.917Z [info]: Unknown column 'DepartmentId' in 'field list'
+2024-03-29T07:10:07.437Z [info]: Synced db.
+2024-03-29T07:10:07.441Z [info]: 🚀 API Server running on port 3000
+2024-03-29T07:10:07.442Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T07:10:14.662Z [info]: Unknown column 'DepartmentId' in 'field list'
+2024-03-29T07:11:05.448Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T07:12:12.700Z [info]: Unknown column 'DepartmentId' in 'field list'
+2024-03-29T07:13:13.926Z [info]: Synced db.
+2024-03-29T07:13:13.930Z [info]: 🚀 API Server running on port 3000
+2024-03-29T07:13:13.931Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T07:13:17.873Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T07:14:43.871Z [info]: f098770e-8881-419c-b001-cbd447546cc6
+2024-03-29T07:14:43.878Z [info]: [1mnull[22m
+2024-03-29T07:14:43.884Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T07:15:03.946Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T07:15:54.284Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T07:18:09.283Z [info]: Synced db.
+2024-03-29T07:18:09.288Z [info]: 🚀 API Server running on port 3000
+2024-03-29T07:18:09.289Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T07:19:10.617Z [info]: Synced db.
+2024-03-29T07:19:10.619Z [info]: 🚀 API Server running on port 3000
+2024-03-29T07:19:10.619Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T07:20:34.934Z [info]: Synced db.
+2024-03-29T07:20:34.938Z [info]: 🚀 API Server running on port 3000
+2024-03-29T07:20:34.939Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T07:21:32.031Z [info]: Synced db.
+2024-03-29T07:21:32.034Z [info]: 🚀 API Server running on port 3000
+2024-03-29T07:21:32.035Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T07:22:58.116Z [info]: Synced db.
+2024-03-29T07:22:58.119Z [info]: 🚀 API Server running on port 3000
+2024-03-29T07:22:58.120Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T07:24:38.877Z [info]: Synced db.
+2024-03-29T07:24:38.881Z [info]: 🚀 API Server running on port 3000
+2024-03-29T07:24:38.882Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T07:25:59.187Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T07:26:06.486Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T07:35:57.935Z [info]: Synced db.
+2024-03-29T07:35:57.940Z [info]: 🚀 API Server running on port 3000
+2024-03-29T07:35:57.941Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T07:36:10.603Z [info]: notNull Violation: Department.schoolId cannot be null,
+notNull Violation: Department.SessionId cannot be null
+2024-03-29T07:36:43.452Z [info]: notNull Violation: Department.SessionId cannot be null
+2024-03-29T07:36:53.976Z [info]: notNull Violation: Department.SessionId cannot be null
+2024-03-29T07:36:57.955Z [info]: notNull Violation: Department.SessionId cannot be null
+2024-03-29T07:37:16.890Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T07:39:25.300Z [info]: Failed to sync db: Duplicate column name 'SessionId'
+2024-03-29T07:40:17.517Z [info]: Failed to sync db: Duplicate column name 'SessionId'
+2024-03-29T07:41:43.301Z [info]: Failed to sync db: Duplicate column name 'SessionId'
+2024-03-29T07:43:06.985Z [info]: Failed to sync db: Duplicate column name 'SessionId'
+2024-03-29T07:44:13.146Z [info]: Failed to sync db: Duplicate column name 'SessionId'
+2024-03-29T07:46:46.511Z [info]: Synced db.
+2024-03-29T07:46:46.519Z [info]: 🚀 API Server running on port 3000
+2024-03-29T07:46:46.521Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T07:47:44.361Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T07:47:49.057Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T07:48:27.445Z [info]: notNull Violation: Department.sessionId cannot be null
+2024-03-29T07:48:40.329Z [info]: Cannot add or update a child row: a foreign key constraint fails (`lecture_db`.`departments`, CONSTRAINT `departments_ibfk_1` FOREIGN KEY (`sessionId`) REFERENCES `sessions` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+2024-03-29T07:54:04.699Z [info]: Failed to sync db: Duplicate column name 'SessionId'
+2024-03-29T07:55:27.078Z [info]: Failed to sync db: Duplicate column name 'SessionId'
+2024-03-29T15:12:05.214Z [info]: Failed to sync db: Duplicate column name 'SessionId'
+2024-03-29T15:15:35.671Z [info]: Failed to sync db: Duplicate column name 'SessionId'
+2024-03-29T15:32:38.482Z [info]: Synced db.
+2024-03-29T15:32:38.497Z [info]: 🚀 API Server running on port 3000
+2024-03-29T15:32:38.499Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T15:34:17.014Z [info]: Synced db.
+2024-03-29T15:34:17.018Z [info]: 🚀 API Server running on port 3000
+2024-03-29T15:34:17.019Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T15:36:02.150Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T15:36:06.835Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T15:36:19.524Z [info]: Cannot add or update a child row: a foreign key constraint fails (`lecture_db`.`departments`, CONSTRAINT `departments_ibfk_1` FOREIGN KEY (`sessionId`) REFERENCES `sessions` (`id`) ON UPDATE CASCADE)
+2024-03-29T15:38:24.137Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T15:43:57.738Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T15:44:25.952Z [info]: Validation error
+2024-03-29T15:58:37.693Z [info]: Synced db.
+2024-03-29T15:58:37.703Z [info]: 🚀 API Server running on port 3000
+2024-03-29T15:58:37.704Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T16:06:06.198Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T16:06:28.253Z [info]: notNull Violation: School.schoolName cannot be null
+2024-03-29T16:06:37.911Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T16:06:44.226Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T16:07:23.264Z [info]: f098770e-8881-419c-b001-cbd447546cc6
+2024-03-29T16:07:23.274Z [info]: [1mnull[22m
+2024-03-29T16:07:23.282Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T16:11:10.484Z [info]: Synced db.
+2024-03-29T16:11:10.492Z [info]: 🚀 API Server running on port 3000
+2024-03-29T16:11:10.494Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T16:27:38.002Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T16:32:04.866Z [info]: Synced db.
+2024-03-29T16:32:04.872Z [info]: 🚀 API Server running on port 3000
+2024-03-29T16:32:04.873Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T16:37:49.990Z [info]: Cannot set headers after they are sent to the client
+2024-03-29T16:39:19.865Z [info]: Synced db.
+2024-03-29T16:39:19.869Z [info]: 🚀 API Server running on port 3000
+2024-03-29T16:39:19.870Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T16:41:31.299Z [info]: Synced db.
+2024-03-29T16:41:31.306Z [info]: 🚀 API Server running on port 3000
+2024-03-29T16:41:31.307Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T16:46:27.492Z [info]: Synced db.
+2024-03-29T16:46:27.496Z [info]: 🚀 API Server running on port 3000
+2024-03-29T16:46:27.497Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T16:52:23.852Z [info]: Synced db.
+2024-03-29T16:52:23.862Z [info]: 🚀 API Server running on port 3000
+2024-03-29T16:52:23.863Z [info]: 🔌 Socket Server running on 3301
+2024-03-29T16:59:50.477Z [info]: Synced db.
+2024-03-29T16:59:50.485Z [info]: 🚀 API Server running on port 3000
+2024-03-29T16:59:50.485Z [info]: 🔌 Socket Server running on 3301

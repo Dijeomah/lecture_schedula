@@ -1,0 +1,135 @@
+2024-04-12T09:51:47.562Z [info]: Synced db.
+2024-04-12T09:51:47.571Z [info]: 🚀 API Server running on port 3000
+2024-04-12T09:51:47.571Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T11:49:07.773Z [info]: Synced db.
+2024-04-12T11:49:07.794Z [info]: 🚀 API Server running on port 3000
+2024-04-12T11:49:07.795Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T15:03:27.800Z [info]: Synced db.
+2024-04-12T15:03:27.811Z [info]: 🚀 API Server running on port 3000
+2024-04-12T15:03:27.812Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T15:09:41.088Z [info]: Synced db.
+2024-04-12T15:09:41.093Z [info]: 🚀 API Server running on port 3000
+2024-04-12T15:09:41.094Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T15:12:03.649Z [info]: Synced db.
+2024-04-12T15:12:03.652Z [info]: 🚀 API Server running on port 3000
+2024-04-12T15:12:03.653Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T16:08:24.577Z [info]: Synced db.
+2024-04-12T16:08:24.581Z [info]: 🚀 API Server running on port 3000
+2024-04-12T16:08:24.581Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T16:23:59.270Z [info]: Synced db.
+2024-04-12T16:23:59.275Z [info]: 🚀 API Server running on port 3000
+2024-04-12T16:23:59.276Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T16:28:20.302Z [info]: Synced db.
+2024-04-12T16:28:20.306Z [info]: 🚀 API Server running on port 3000
+2024-04-12T16:28:20.306Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T16:29:54.041Z [info]: Failed to sync db: Duplicate column name 'UserId'
+2024-04-12T16:36:19.224Z [info]: Synced db.
+2024-04-12T16:36:19.230Z [info]: 🚀 API Server running on port 3000
+2024-04-12T16:36:19.231Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T16:49:48.073Z [info]: Synced db.
+2024-04-12T16:49:48.082Z [info]: 🚀 API Server running on port 3000
+2024-04-12T16:49:48.084Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T16:52:23.624Z [info]: Synced db.
+2024-04-12T16:52:23.627Z [info]: 🚀 API Server running on port 3000
+2024-04-12T16:52:23.628Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T16:56:14.079Z [info]: Synced db.
+2024-04-12T16:56:14.085Z [info]: 🚀 API Server running on port 3000
+2024-04-12T16:56:14.086Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T17:06:50.663Z [info]: Synced db.
+2024-04-12T17:06:50.670Z [info]: 🚀 API Server running on port 3000
+2024-04-12T17:06:50.670Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T17:09:55.496Z [info]: Synced db.
+2024-04-12T17:09:55.500Z [info]: 🚀 API Server running on port 3000
+2024-04-12T17:09:55.501Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T17:18:31.939Z [info]: Synced db.
+2024-04-12T17:18:31.943Z [info]: 🚀 API Server running on port 3000
+2024-04-12T17:18:31.944Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T17:24:23.565Z [info]: Synced db.
+2024-04-12T17:24:23.569Z [info]: 🚀 API Server running on port 3000
+2024-04-12T17:24:23.570Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T17:25:31.055Z [info]: Synced db.
+2024-04-12T17:25:31.060Z [info]: 🚀 API Server running on port 3000
+2024-04-12T17:25:31.061Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T17:29:55.243Z [info]: Synced db.
+2024-04-12T17:29:55.250Z [info]: 🚀 API Server running on port 3000
+2024-04-12T17:29:55.251Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T17:34:03.481Z [info]: Synced db.
+2024-04-12T17:34:03.487Z [info]: 🚀 API Server running on port 3000
+2024-04-12T17:34:03.489Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T17:37:41.894Z [info]: Unknown column 'LectureDatum.ScheduleId' in 'field list'
+2024-04-12T17:41:40.741Z [info]: Synced db.
+2024-04-12T17:41:40.748Z [info]: 🚀 API Server running on port 3000
+2024-04-12T17:41:40.749Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T17:46:28.119Z [info]: Synced db.
+2024-04-12T17:46:28.128Z [info]: 🚀 API Server running on port 3000
+2024-04-12T17:46:28.129Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T17:47:41.494Z [info]: Synced db.
+2024-04-12T17:47:41.496Z [info]: 🚀 API Server running on port 3000
+2024-04-12T17:47:41.497Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T17:48:09.168Z [info]: undefined
+2024-04-12T17:52:27.400Z [info]: Synced db.
+2024-04-12T17:52:27.406Z [info]: 🚀 API Server running on port 3000
+2024-04-12T17:52:27.407Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T17:53:03.429Z [info]: undefined
+2024-04-12T17:57:16.478Z [info]: Synced db.
+2024-04-12T17:57:16.483Z [info]: 🚀 API Server running on port 3000
+2024-04-12T17:57:16.484Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T17:57:23.827Z [info]: undefined
+2024-04-12T18:05:41.095Z [info]: Synced db.
+2024-04-12T18:05:41.103Z [info]: 🚀 API Server running on port 3000
+2024-04-12T18:05:41.104Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T18:06:01.623Z [info]: undefined
+2024-04-12T18:07:44.219Z [info]: Synced db.
+2024-04-12T18:07:44.224Z [info]: 🚀 API Server running on port 3000
+2024-04-12T18:07:44.225Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T18:08:07.455Z [info]: Synced db.
+2024-04-12T18:08:07.458Z [info]: 🚀 API Server running on port 3000
+2024-04-12T18:08:07.459Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T18:08:20.011Z [info]: undefined
+2024-04-12T18:10:27.392Z [info]: Synced db.
+2024-04-12T18:10:27.398Z [info]: 🚀 API Server running on port 3000
+2024-04-12T18:10:27.400Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T18:10:34.952Z [info]: undefined
+2024-04-12T18:15:32.826Z [info]: Synced db.
+2024-04-12T18:15:32.833Z [info]: 🚀 API Server running on port 3000
+2024-04-12T18:15:32.833Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T18:15:51.613Z [info]: undefined
+2024-04-12T18:17:15.568Z [info]: Synced db.
+2024-04-12T18:17:15.571Z [info]: 🚀 API Server running on port 3000
+2024-04-12T18:17:15.573Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T18:17:20.743Z [info]: undefined
+2024-04-12T18:19:21.450Z [info]: Synced db.
+2024-04-12T18:19:21.453Z [info]: 🚀 API Server running on port 3000
+2024-04-12T18:19:21.454Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T18:19:50.736Z [info]: undefined
+2024-04-12T18:22:04.894Z [info]: Synced db.
+2024-04-12T18:22:04.897Z [info]: 🚀 API Server running on port 3000
+2024-04-12T18:22:04.898Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T18:22:13.504Z [info]: undefined
+2024-04-12T18:31:49.149Z [info]: Synced db.
+2024-04-12T18:31:49.152Z [info]: 🚀 API Server running on port 3000
+2024-04-12T18:31:49.153Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T18:32:16.595Z [info]: undefined
+2024-04-12T18:40:58.453Z [info]: Synced db.
+2024-04-12T18:40:58.459Z [info]: 🚀 API Server running on port 3000
+2024-04-12T18:40:58.460Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T18:42:26.110Z [info]: Synced db.
+2024-04-12T18:42:26.113Z [info]: 🚀 API Server running on port 3000
+2024-04-12T18:42:26.113Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T21:47:06.957Z [info]: Synced db.
+2024-04-12T21:47:06.963Z [info]: 🚀 API Server running on port 3000
+2024-04-12T21:47:06.963Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T21:47:23.525Z [info]: undefined
+2024-04-12T21:48:47.037Z [info]: Synced db.
+2024-04-12T21:48:47.042Z [info]: 🚀 API Server running on port 3000
+2024-04-12T21:48:47.044Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T21:48:53.950Z [info]: undefined
+2024-04-12T21:51:27.645Z [info]: Failed to sync db: Duplicate column name 'UserId'
+2024-04-12T21:52:56.878Z [info]: Failed to sync db: Duplicate column name 'UserId'
+2024-04-12T21:55:47.640Z [info]: Failed to sync db: Duplicate column name 'DepartmentId'
+2024-04-12T22:01:09.645Z [info]: Synced db.
+2024-04-12T22:01:09.652Z [info]: 🚀 API Server running on port 3000
+2024-04-12T22:01:09.653Z [info]: 🔌 Socket Server running on 3301
+2024-04-12T22:09:38.377Z [info]: Synced db.
+2024-04-12T22:09:38.386Z [info]: 🚀 API Server running on port 3000
+2024-04-12T22:09:38.387Z [info]: 🔌 Socket Server running on 3301

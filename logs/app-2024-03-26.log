@@ -1,0 +1,17 @@
+2024-03-26T18:04:51.602Z [info]: Failed to sync db: Unknown database 'lecture_db'
+2024-03-26T18:06:29.754Z [info]: Failed to sync db: Unknown database 'lecture_db'
+2024-03-26T22:19:10.610Z [info]: Synced db.
+2024-03-26T22:19:10.626Z [info]: 🚀 API Server running on port 3000
+2024-03-26T22:31:41.058Z [info]: Synced db.
+2024-03-26T22:31:41.064Z [info]: 🚀 API Server running on port 3000
+2024-03-26T22:34:59.525Z [info]: Synced db.
+2024-03-26T22:34:59.530Z [info]: 🚀 API Server running on port 3000
+2024-03-26T22:37:44.971Z [info]: Synced db.
+2024-03-26T22:37:44.980Z [info]: 🚀 API Server running on port 3000
+2024-03-26T22:40:59.175Z [info]: Synced db.
+2024-03-26T22:40:59.184Z [info]: 🚀 API Server running on port 3000
+2024-03-26T22:49:46.182Z [info]: Synced db.
+2024-03-26T22:49:46.187Z [info]: 🚀 API Server running on port 3000
+2024-03-26T22:56:12.683Z [info]: Synced db.
+2024-03-26T22:56:12.690Z [info]: 🚀 API Server running on port 3000
+2024-03-26T22:56:12.691Z [info]: 🔌 Socket Server running on 3301
